@@ -1,0 +1,1134 @@
+[
+    {
+        "outputFile": "/home/vivi/下载/CardReader/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 46,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 142,
+                        "endColumn": 43,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 47,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 228,
+                        "endColumn": 44,
+                        "endOffset": 271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 48,
+                    "endOffset": 241
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 96,
+                        "endColumn": 45,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 246,
+                    "endColumn": 44,
+                    "endOffset": 286
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 186,
+                        "endColumn": 41,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 291,
+                    "endColumn": 41,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 38,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 41,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 130,
+                        "endColumn": 38,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 41,
+                    "endOffset": 412
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 91,
+                        "endColumn": 38,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 417,
+                    "endColumn": 40,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 169,
+                        "endColumn": 37,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 39,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 286,
+                        "endColumn": 36,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 42,
+                    "endOffset": 536
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 246,
+                        "endColumn": 39,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 541,
+                    "endColumn": 41,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 207,
+                        "endColumn": 38,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 43,
+                    "endOffset": 622
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 40,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 627,
+                    "endColumn": 41,
+                    "endOffset": 664
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 217,
+                        "endColumn": 38,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 669,
+                    "endColumn": 41,
+                    "endOffset": 706
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 297,
+                        "endColumn": 38,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 711,
+                    "endColumn": 43,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 256,
+                        "endColumn": 40,
+                        "endOffset": 295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endLine": 28,
+                    "endColumn": 10,
+                    "endOffset": 1870
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 1,
+                        "startOffset": 3544,
+                        "endLine": 69,
+                        "endColumn": 10,
+                        "endOffset": 4573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1875,
+                    "endLine": 36,
+                    "endColumn": 10,
+                    "endOffset": 2933
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 1,
+                        "startOffset": 2501,
+                        "endLine": 57,
+                        "endColumn": 10,
+                        "endOffset": 3541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2938,
+                    "endColumn": 48,
+                    "endOffset": 2982
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 1258,
+                        "endColumn": 45,
+                        "endOffset": 1302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2987,
+                    "endColumn": 47,
+                    "endOffset": 3030
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 1523,
+                        "endColumn": 44,
+                        "endOffset": 1566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3035,
+                    "endColumn": 48,
+                    "endOffset": 3079
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1477,
+                        "endColumn": 45,
+                        "endOffset": 1521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3084,
+                    "endColumn": 43,
+                    "endOffset": 3123
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1304,
+                        "endColumn": 40,
+                        "endOffset": 1343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3128,
+                    "endColumn": 43,
+                    "endOffset": 3167
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1345,
+                        "endColumn": 40,
+                        "endOffset": 1384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3172,
+                    "endColumn": 41,
+                    "endOffset": 3209
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 1144,
+                        "endColumn": 38,
+                        "endOffset": 1181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3214,
+                    "endColumn": 38,
+                    "endOffset": 3248
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 993,
+                        "endColumn": 35,
+                        "endOffset": 1027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3253,
+                    "endColumn": 40,
+                    "endOffset": 3289
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 1220,
+                        "endColumn": 37,
+                        "endOffset": 1256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3294,
+                    "endColumn": 39,
+                    "endOffset": 3329
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1183,
+                        "endColumn": 36,
+                        "endOffset": 1218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3334,
+                    "endColumn": 47,
+                    "endOffset": 3377
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1386,
+                        "endColumn": 44,
+                        "endOffset": 1429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3382,
+                    "endColumn": 40,
+                    "endOffset": 3418
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 1029,
+                        "endColumn": 37,
+                        "endOffset": 1065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3423,
+                    "endColumn": 41,
+                    "endOffset": 3460
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 1067,
+                        "endColumn": 38,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3465,
+                    "endColumn": 48,
+                    "endOffset": 3509
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1431,
+                        "endColumn": 45,
+                        "endOffset": 1475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3514,
+                    "endColumn": 40,
+                    "endOffset": 3550
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 1106,
+                        "endColumn": 37,
+                        "endOffset": 1142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3555,
+                    "endColumn": 44,
+                    "endOffset": 3595
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 175,
+                        "endColumn": 41,
+                        "endOffset": 215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3600,
+                    "endColumn": 44,
+                    "endOffset": 3640
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 93,
+                        "endColumn": 41,
+                        "endOffset": 133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3645,
+                    "endColumn": 42,
+                    "endOffset": 3683
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 135,
+                        "endColumn": 39,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3688,
+                    "endLine": 55,
+                    "endColumn": 10,
+                    "endOffset": 3770
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 909,
+                        "endLine": 17,
+                        "endColumn": 10,
+                        "endOffset": 991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3775,
+                    "endColumn": 151,
+                    "endOffset": 3922
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 638,
+                        "endColumn": 148,
+                        "endOffset": 785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3927,
+                    "endColumn": 124,
+                    "endOffset": 4047
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 787,
+                        "endColumn": 121,
+                        "endOffset": 907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4052,
+                    "endColumn": 83,
+                    "endOffset": 4131
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 557,
+                        "endColumn": 80,
+                        "endOffset": 636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4136,
+                    "endColumn": 55,
+                    "endOffset": 4187
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 504,
+                        "endColumn": 52,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4192,
+                    "endColumn": 58,
+                    "endOffset": 4246
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 2064,
+                        "endColumn": 55,
+                        "endOffset": 2118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4251,
+                    "endColumn": 74,
+                    "endOffset": 4321
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 1,
+                        "startOffset": 2120,
+                        "endColumn": 71,
+                        "endOffset": 2190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4326,
+                    "endColumn": 53,
+                    "endOffset": 4375
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 1682,
+                        "endColumn": 50,
+                        "endOffset": 1731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4380,
+                    "endColumn": 58,
+                    "endOffset": 4434
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 1626,
+                        "endColumn": 55,
+                        "endOffset": 1680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4439,
+                    "endColumn": 59,
+                    "endOffset": 4494
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 1569,
+                        "endColumn": 56,
+                        "endOffset": 1624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4499,
+                    "endColumn": 49,
+                    "endOffset": 4544
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 2017,
+                        "endColumn": 46,
+                        "endOffset": 2062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4549,
+                    "endColumn": 57,
+                    "endOffset": 4602
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 1,
+                        "startOffset": 2445,
+                        "endColumn": 54,
+                        "endOffset": 2498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4607,
+                    "endColumn": 62,
+                    "endOffset": 4665
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 1,
+                        "startOffset": 2385,
+                        "endColumn": 59,
+                        "endOffset": 2443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4670,
+                    "endColumn": 51,
+                    "endOffset": 4717
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 1912,
+                        "endColumn": 48,
+                        "endOffset": 1959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4722,
+                    "endColumn": 69,
+                    "endOffset": 4787
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 1733,
+                        "endColumn": 66,
+                        "endOffset": 1798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4792,
+                    "endColumn": 71,
+                    "endOffset": 4859
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 2245,
+                        "endColumn": 68,
+                        "endOffset": 2312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4864,
+                    "endColumn": 73,
+                    "endOffset": 4933
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 1,
+                        "startOffset": 2314,
+                        "endColumn": 70,
+                        "endOffset": 2383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4938,
+                    "endColumn": 50,
+                    "endOffset": 4984
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 1800,
+                        "endColumn": 47,
+                        "endOffset": 1846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4989,
+                    "endColumn": 66,
+                    "endOffset": 5051
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 1848,
+                        "endColumn": 63,
+                        "endOffset": 1910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5056,
+                    "endColumn": 55,
+                    "endOffset": 5107
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 1,
+                        "startOffset": 2192,
+                        "endColumn": 52,
+                        "endOffset": 2243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5112,
+                    "endColumn": 58,
+                    "endOffset": 5166
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 1961,
+                        "endColumn": 55,
+                        "endOffset": 2015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5171,
+                    "endColumn": 57,
+                    "endOffset": 5224
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 395,
+                        "endColumn": 54,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5229,
+                    "endColumn": 55,
+                    "endOffset": 5280
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 450,
+                        "endColumn": 52,
+                        "endOffset": 501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5285,
+                    "endColumn": 61,
+                    "endOffset": 5342
+                },
+                "from": {
+                    "file": "/home/vivi/下载/CardReader/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 336,
+                        "endColumn": 58,
+                        "endOffset": 393
+                    }
+                }
+            }
+        ]
+    }
+]

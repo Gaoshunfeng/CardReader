@@ -1,0 +1,7 @@
+#Thu Jun 22 16:38:52 CST 2017
+base.0=/home/vivi/下载/CardReader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a04ba5db83a106f1900e489009af56a7bf67f1fd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/vivi/下载/CardReader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_072ed3cd8f80420669ea38d78c185a70eb9c392d/classes.dex
+base.1=/home/vivi/下载/CardReader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_072ed3cd8f80420669ea38d78c185a70eb9c392d
+file.0=/home/vivi/下载/CardReader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a04ba5db83a106f1900e489009af56a7bf67f1fd/classes.dex
